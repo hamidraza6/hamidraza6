@@ -121,53 +121,6 @@ Machine Learning project focused on predicting customers who are likely to leave
 
 ---
 
-### 🔹 House Price Prediction
-
-A regression-based Machine Learning project for predicting house prices using relevant property features.
-
-**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn
-
-**Key Areas:**
-
-* Data preprocessing
-* Missing-value handling
-* Outlier detection
-* Feature engineering
-* Regression
-* Model evaluation
-
----
-
-### 🔹 Sentiment Analysis
-
-Natural Language Processing project for classifying text based on sentiment.
-
-**Tech Stack:** Python, Pandas, NLP, Scikit-Learn
-
-**Key Areas:**
-
-* Text preprocessing
-* Feature extraction
-* Classification
-* Model evaluation
-
----
-
-### 🔹 COVID-19 Data Analysis Dashboard
-
-Data analysis and visualization project focused on extracting insights from COVID-19 datasets.
-
-**Tech Stack:** Python, Pandas, Matplotlib, Power BI
-
-**Key Areas:**
-
-* Data cleaning
-* Exploratory Data Analysis
-* Data visualization
-* Dashboard development
-* Trend analysis
-
----
 
 ## 📚 Currently Learning
 
@@ -187,8 +140,6 @@ MLOps & Model Deployment
 Advanced AI Systems
 ```
 
----
-
 ## 🎯 Career Goal
 
 My long-term goal is to become a highly skilled **Data Scientist and Machine Learning Engineer** capable of solving real-world problems using data and intelligent systems.
@@ -198,6 +149,7 @@ I am continuously improving my skills through:
 * Real-world projects
 * Dataset analysis
 * Machine Learning experiments
+* Artificial Neural Network
 * SQL practice
 * Data visualization
 * Model development
