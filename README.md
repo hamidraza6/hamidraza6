@@ -13,7 +13,7 @@ I enjoy working with real-world datasets, extracting meaningful insights, buildi
 * 📊 Aspiring **Data Scientist**
 * 🤖 Interested in **Machine Learning & Artificial Intelligence**
 * 🐍 Strong interest in Python for Data Science
-* 🧹 Experienced in Data Cleaning & Exploratory Data Analysis
+* 🧹 Hands-on with Data Cleaning & Exploratory Data Analysis
 * 📈 Interested in Data Visualization & Business Intelligence
 * 🗄️ Learning and practicing SQL for real-world data analysis
 * 🔬 Currently improving my Machine Learning and Statistical skills
