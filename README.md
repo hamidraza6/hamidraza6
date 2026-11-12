@@ -1,6 +1,5 @@
 # Hi 👋, I'm Hamid Raza
-
-### Data Scientist | Machine Learning Enthusiast | AI Student
+### Aspiring Data Scientist | Machine Learning | AI Student
 
 I’m an **Artificial Intelligence undergraduate** focused on building practical skills in **Data Science, Machine Learning, and AI**.
 
@@ -100,27 +99,17 @@ Deployment
 
 ## 💼 Featured Projects
 
-### 🔹 Customer Churn Prediction
+### 🔹 [Customer Churn Prediction](https://github.com/hamidraza6/Customer-Churn-Prediction)
+End-to-end ML web app that predicts telecom customer churn. Compared 5 models, tuned a Random Forest with GridSearchCV (95.2% accuracy, 0.982 AUC-ROC on a synthetic dataset), and deployed it as a Flask app that returns churn probability and risk level.
+**Tech:** Python, Pandas, Scikit-learn, XGBoost, Flask
 
-Machine Learning project focused on predicting customers who are likely to leave a service.
+### 🔹 [Book Recommendation System](https://github.com/hamidraza6/Book-recommendation-System-web-app)
+Flask web app using collaborative filtering to suggest similar books based on user ratings.
+**Tech:** Python, Pandas, Flask
 
-**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib
-
-**Key Areas:**
-
-* Data preprocessing
-* Exploratory Data Analysis
-* Feature engineering
-* Classification
-* Model evaluation
-* Confusion matrix
-* Precision & Recall
-* Handling class imbalance
-
-🔗 **[View Project](https://github.com/hamidraza6/Customer-Churn-Prediction)**
-
----
-
+### 🔹 [Multi-Page Book Scraper](https://github.com/hamidraza6/Multi-page-book-scraper)
+Scraping pipeline that collected title, price, rating and stock data across 50 pages into a structured Pandas CSV.
+**Tech:** Python, Requests, BeautifulSoup, Pandas
 
 ## 📚 Currently Learning
 
@@ -171,15 +160,9 @@ I am continuously improving my skills through:
 
 ## 🤝 Connect With Me
 
-<p>
-  <a href="https://github.com/hamidraza6">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
+- LinkedIn: https://www.linkedin.com/in/hamid-razadata-scientist
+- Portfolio: https://hamidraza6.github.io/
+- Email: hamidraza71450@gmail.com
 ---
 
 ### 💡 "Turning data into insights, and insights into intelligent solutions."
