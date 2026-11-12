@@ -148,8 +148,6 @@ I am continuously improving my skills through:
 
 ## 📈 GitHub Activity
 
-## 📈 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamidraza6&show_icons=true&theme=github_dark&hide_border=true" alt="Hamid's GitHub stats" />
 </p>
